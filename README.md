@@ -12,7 +12,7 @@ This simple PHP-based service converts URLs into short, redirected links on a cu
   - Extremely fast: uses very little server resource
   - Minimalist front end: make it your own
   - Only uses alphanumeric characters so all browsers can interpret the URL
-#### Video Execution: (https://www.youtube.com/watch?v=mCM5D4TBpPY)  
+
   
 ## Getting Started
   - Install the latest version of XAMPP from apachi foundation softwares (https://www.apachefriends.org/index.html).
@@ -28,5 +28,5 @@ This simple PHP-based service converts URLs into short, redirected links on a cu
   - Open any browser and goto localhost/url then you can see the webapp running.
 
 ## Author 
-  - Sai Dixith Chetelli
-  - Mail: saidixith002@gmail.com
+  - Srihitha kadam
+  - Mail: srihithakadam.24@gmail.com
